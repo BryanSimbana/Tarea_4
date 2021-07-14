@@ -279,7 +279,7 @@ C. Determine el voltaje Vab.
 ![image](https://user-images.githubusercontent.com/85320165/125568606-985eefad-ebaf-4f50-8c19-49ecc0b86c52.png)
 
 
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125556954-ba1c364c-5e4e-4c2b-933e-ab119877df7c.png)
+![image](https://user-images.githubusercontent.com/85320165/125569204-b86316e0-edb7-4cfb-9152-b15737a8c831.png)
 
 ![image](https://user-images.githubusercontent.com/85320165/125568657-778f566f-b88e-4a2f-9313-b2628530a4f5.png)
 
