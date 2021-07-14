@@ -168,13 +168,139 @@ b) Cuando RL = 250 Ω
 ![36-1](https://user-images.githubusercontent.com/84783236/125563697-2bc7c6a6-8f8f-4866-add1-8d31ed444be9.jpeg)
 ![36-2](https://user-images.githubusercontent.com/84783236/125563704-ca9779af-4db2-42c8-9a4d-6a447cb53728.jpeg)
 
-Capitulo 8 
+2. Encuentre el voltaje VS para el circuito de la figura 8-65.
 
-![11](https://user-images.githubusercontent.com/85522189/125564654-d83c6a51-e2fd-4fe3-b196-43b12f8ac278.PNG)
+![image](https://user-images.githubusercontent.com/85320165/125565290-f5dd2b88-526c-4790-baab-b75d000b5a82.png)
 
-![12](https://user-images.githubusercontent.com/85522189/125564661-75bfa86f-149e-4fc1-ab3e-07998168ba48.PNG)
 
-![13](https://user-images.githubusercontent.com/85522189/125564674-259439f6-099a-46e4-9a0e-45130f96dd8d.PNG)
+Solucion
+
+![image](https://user-images.githubusercontent.com/85320165/125565393-0c65ab1b-35e9-47de-8a50-76773b33b493.png)
+
+![image](https://user-images.githubusercontent.com/85320165/125565418-9427f1ba-49eb-4a71-9137-f0bb00e592df.png)
+
+
+![image](https://user-images.githubusercontent.com/85320165/125565433-71a1bdff-3fb2-4725-b374-29e3f627ed7e.png)
+
+
+4. Considere el circuito de la figura 8-67:
+
+a. Calcule los voltajes V2 y VS.
+
+B. Las Encontradas corrientes I e I3.
+
+![image](https://user-images.githubusercontent.com/85320165/125565571-af64d3d1-017d-49c0-9e36-eb562ec2ee33.png)
+
+
+Solucion
+
+![image](https://user-images.githubusercontent.com/85320165/125566037-630d83b5-310a-4486-b7d5-90ca4ba66ef9.png)
+
+
+![image](https://user-images.githubusercontent.com/85320165/125566298-9c29d7d9-2a09-4b5c-932e-9d578f9162d0.png)
+
+
+6. Vea del circuito de la figura 8-69:
+
+a. Los encontrar voltajes VS y V2.
+
+
+B. Determine la corriente I4.
+
+![image](https://user-images.githubusercontent.com/85320165/125567052-6c880e9a-08c1-46f4-beee-ff01f32ee1c7.png)
+
+
+Solucion
+
+![image](https://user-images.githubusercontent.com/85320165/125567151-aa30fe00-1dd6-4a76-82e5-d5929e9b4de8.png)
+
+
+![image](https://user-images.githubusercontent.com/85320165/125567244-1581589d-a868-4d10-b6be-6a2b78c7ea58.png)
+
+
+![image](https://user-images.githubusercontent.com/85320165/125567358-a3fdb3c6-10c0-45f0-a2cd-942ec94ad8e5.png)
+
+
+8. Verifique que la potencia suministrada por la fuente en el circuito de la figura
+8-69 es igual a la suma de las potencias disipadas por los resistores.
+
+![image](https://user-images.githubusercontent.com/85320165/125567052-6c880e9a-08c1-46f4-beee-ff01f32ee1c7.png)
+
+![image](https://user-images.githubusercontent.com/85320165/125567503-23acd475-4afb-4c1b-a820-88b3698c4932.png)
+
+![image](https://user-images.githubusercontent.com/85320165/125567585-a58a7893-3003-48bb-95c2-6ae71f2c32a3.png)
+
+![image](https://user-images.githubusercontent.com/85320165/125567634-863fe0d2-a595-4fcb-baac-19e580b1e80f.png)
+
+
+![image](https://user-images.githubusercontent.com/85320165/125567661-4cfb11b6-89fb-4341-93e7-858915649aa9.png)
+
+![image](https://user-images.githubusercontent.com/85320165/125567671-fd8defc9-e7e5-4f6f-824f-462ef32ac068.png)
+
+![image](https://user-images.githubusercontent.com/85320165/125567708-ee2ab407-c580-4063-b585-acb3b555057f.png)
+
+![image](https://user-images.githubusercontent.com/85320165/125567758-e02e1753-6eef-4993-9654-c6408138c9fa.png)
+
+
+10. Convierta cada fuente de corriente de la figura 8-71 en su fuente de voltaje
+equivalente
+![image](https://user-images.githubusercontent.com/85320165/125567829-3a105a79-5745-4f09-a826-44ec3a83e8bf.png)a68-4762-b54f-d683eee8fbf8.png)
+
+a)
+
+! [ imagen ] (https://user-images.githubusercontent.com/85320165/125554980-23e55d6a-f9ed-4539-8578-cf2a78cb0918.png)
+
+! [ imagen ] (https://user-images.githubusercontent.com/85320165/125555448-96ee512e-8244-4511-8970-fe3d39f64f36.png)
+
+
+B)
+
+! [ imagen ] (https://user-images.githubusercontent.com/85320165/125555459-8645817c-953f-458b-917d-92db0f428e37.png)
+
+! [ imagen ] (https://user-images.githubusercontent.com/85320165/125555553-bb0e16cb-118e-4244-bf1f-4c96bbc9d8d1.png)
+
+12. Encuentra Vab e I2 para la red de la figura 8-73.
+
+! [ imagen ] (https://user-images.githubusercontent.com/85320165/125555600-0efa88c1-06eb-4b20-af41-1411c31426a7.png)
+
+! [ imagen ] (https://user-images.githubusercontent.com/85320165/125555630-984f8510-2a3c-4955-a4e1-b7eaa99eaf78.png)
+
+14. Vea el circuito de la figura 8-75:
+
+una. Convierta la fuente de voltaje y el resistor de 36? en fuente de corriente
+equivalente.
+
+B. Cifre la corriente a través de RL.
+
+C. Determine el voltaje Vab.
+
+! [ imagen ] (https://user-images.githubusercontent.com/85320165/125556154-aa6819c7-daa4-4f28-940d-f80042d784af.png)
+
+
+! [ imagen ] (https://user-images.githubusercontent.com/85320165/125556895-24e7a499-3f84-477d-842c-e7767ca828fd.png)
+
+! [ imagen ] (https://user-images.githubusercontent.com/85320165/125556954-ba1c364c-5e4e-4c2b-933e-ab119877df7c.png)
+
+! [ imagen ] (https://user-images.githubusercontent.com/85320165/125557024-75c72552-512b-4aa1-9b7d-45519b701fcc.png)
+
+
+! [ imagen ] (https://user-images.githubusercontent.com/85320165/125557052-370dc8f1-bed0-403a-83f5-74a3890745b6.png)
+
+
+16. Convierta las fuentes de voltaje de la figura 8-77 en sus fuentes de corriente
+equivalentes y calcule la corriente I1 y el voltaje Vab.
+
+! [ imagen ] (https://user-images.githubusercontent.com/85320165/125557416-9550139f-6a69-4020-bab9-5008d7fb3f2f.png)
+
+
+! [ imagen ] (https://user-images.githubusercontent.com/85320165/125557945-a1442969-96bf-4d80-b605-559b4282800e.png)
+
+! [ imagen ] (https://user-images.githubusercontent.com/85320165/125558156-1b134f9c-42ce-4db1-a9b7-0f20a98f2c88.png)
+
+! [ imagen ] (https://user-images.githubusercontent.com/85320165/125558227-7a455482-69ad-474a-8512-52daeec37374.png)
+
+! [ imagen ] (https://user-images.githubusercontent.com/85320165/125558282-272f96c0-f249-4c89-8a19-9696d4d01e18.png)
+
 
 
 
