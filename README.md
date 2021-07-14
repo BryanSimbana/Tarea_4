@@ -244,26 +244,25 @@ Solucion
 
 10. Convierta cada fuente de corriente de la figura 8-71 en su fuente de voltaje
 equivalente
-![image](https://user-images.githubusercontent.com/85320165/125567829-3a105a79-5745-4f09-a826-44ec3a83e8bf.png)a68-4762-b54f-d683eee8fbf8.png)
+![image](https://user-images.githubusercontent.com/85320165/125567829-3a105a79-5745-4f09-a826-44ec3a83e8bf.png)
 
 a)
 
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125554980-23e55d6a-f9ed-4539-8578-cf2a78cb0918.png)
+![image](https://user-images.githubusercontent.com/85320165/125568381-fa42b55c-d76a-46ba-92b9-f6422ae5e83e.png)
 
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125555448-96ee512e-8244-4511-8970-fe3d39f64f36.png)
 
+![image](https://user-images.githubusercontent.com/85320165/125568326-e516eb96-a39f-4e4d-8478-58e93ddd4bb0.png)
 
 B)
+![image](https://user-images.githubusercontent.com/85320165/125568398-4a653c83-5f72-4268-a079-4972f130149b.png)
 
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125555459-8645817c-953f-458b-917d-92db0f428e37.png)
 
 ! [ imagen ] (https://user-images.githubusercontent.com/85320165/125555553-bb0e16cb-118e-4244-bf1f-4c96bbc9d8d1.png)
 
 12. Encuentra Vab e I2 para la red de la figura 8-73.
+![image](https://user-images.githubusercontent.com/85320165/125568458-e5fb824a-bf44-4226-ab33-3a8dd0aa7978.png)
 
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125555600-0efa88c1-06eb-4b20-af41-1411c31426a7.png)
-
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125555630-984f8510-2a3c-4955-a4e1-b7eaa99eaf78.png)
+![image](https://user-images.githubusercontent.com/85320165/125568477-d5911d4b-f034-4762-87d2-b1eb671cf4ec.png)
 
 14. Vea el circuito de la figura 8-75:
 
@@ -274,32 +273,31 @@ B. Cifre la corriente a través de RL.
 
 C. Determine el voltaje Vab.
 
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125556154-aa6819c7-daa4-4f28-940d-f80042d784af.png)
+![image](https://user-images.githubusercontent.com/85320165/125568542-b27a0f7c-2749-4c30-9d27-694365736cfb.png)
 
+![image](https://user-images.githubusercontent.com/85320165/125568606-985eefad-ebaf-4f50-8c19-49ecc0b86c52.png)
 
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125556895-24e7a499-3f84-477d-842c-e7767ca828fd.png)
 
 ! [ imagen ] (https://user-images.githubusercontent.com/85320165/125556954-ba1c364c-5e4e-4c2b-933e-ab119877df7c.png)
 
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125557024-75c72552-512b-4aa1-9b7d-45519b701fcc.png)
+![image](https://user-images.githubusercontent.com/85320165/125568657-778f566f-b88e-4a2f-9313-b2628530a4f5.png)
 
+![image](https://user-images.githubusercontent.com/85320165/125568688-1b9e782f-7839-46aa-bc40-c9edb7c5ec4e.png)
 
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125557052-370dc8f1-bed0-403a-83f5-74a3890745b6.png)
 
 
 16. Convierta las fuentes de voltaje de la figura 8-77 en sus fuentes de corriente
 equivalentes y calcule la corriente I1 y el voltaje Vab.
+![image](https://user-images.githubusercontent.com/85320165/125568888-0ae49f1d-7a4e-457c-ab49-292181c5887f.png)
 
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125557416-9550139f-6a69-4020-bab9-5008d7fb3f2f.png)
-
-
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125557945-a1442969-96bf-4d80-b605-559b4282800e.png)
+![image](https://user-images.githubusercontent.com/85320165/125568928-dd4fa34e-71aa-449a-9ae9-a024288867e9.png)
 
 ! [ imagen ] (https://user-images.githubusercontent.com/85320165/125558156-1b134f9c-42ce-4db1-a9b7-0f20a98f2c88.png)
 
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125558227-7a455482-69ad-474a-8512-52daeec37374.png)
+![image](https://user-images.githubusercontent.com/85320165/125568966-03866743-a255-454b-aec8-0b6101e70e3c.png)
 
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125558282-272f96c0-f249-4c89-8a19-9696d4d01e18.png)
+![image](https://user-images.githubusercontent.com/85320165/125568990-b7cb3691-9fe3-405d-8836-2b3a2fa73304.png)
+
 
 
 
