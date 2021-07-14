@@ -310,6 +310,43 @@ equivalentes y calcule la corriente I1 y el voltaje Vab.
 
 
 
+26. Utilice el análisis de mallas en el circuito de la figura 8-80 para encontrar la corriente I1. 
+
+![1](https://user-images.githubusercontent.com/85522189/125569905-6cab97e2-2c95-4148-8f0d-a3ba60dbdc6a.PNG)
+
+28. Utilice el análisis de malla para encontrar las corrientes de lazo en el circuito de la figura 8-83. Use sus resultados para determinar I2 y Vab.
+
+![2](https://user-images.githubusercontent.com/85522189/125570016-c0108c4f-38b1-4c02-ab98-8dc34dccf6ac.PNG)
+
+30. Utilice el análisis de malla para determinar la corriente a través del resistor de 6 _ en el circuito de la figura 8-85.
+
+![3](https://user-images.githubusercontent.com/85522189/125570061-6c81edd1-06bc-48b5-bd63-1c0f6a77a4a2.PNG)
+
+32. Repita el problema 31 para la red de la figura 8-87
+
+![4](https://user-images.githubusercontent.com/85522189/125570093-ff527042-1f9e-4c35-9dc5-c97c2fff03ae.PNG)
+
+34. Escriba las ecuaciones de nodos para el circuito de la figura 8-89 y determine el voltaje Vab.
+
+![5](https://user-images.githubusercontent.com/85522189/125570175-8d66cc35-ed72-48cb-a26d-7b882d4a6c47.PNG)
+
+40. Convierta cada una de las redes de la figura 8-93 en su configuración Y equivalente.
+
+![6](https://user-images.githubusercontent.com/85522189/125570244-febdb719-c773-4800-b54a-bb1ebef56df2.PNG)
+
+42. Convierta cada una de las redes Y de la figura 8-95 en su configuración ∆ equivalente
+
+![7](https://user-images.githubusercontent.com/85522189/125570297-b0f8e30e-7610-4d90-91eb-6176259c0212.PNG)
+
+44. Utilice las conversiones -Y o Y-, para encontrar la corriente I y el voltaje Vab para el circuito de la figura 8-97
+
+![8](https://user-images.githubusercontent.com/85522189/125570347-57256c28-7780-484a-b0b3-583d488cc56c.PNG)
+
+46. Repita el problema 44 para el circuito de la figura 8-99. 
+
+![9](https://user-images.githubusercontent.com/85522189/125570378-595e0b75-b8de-426d-bd63-7db8fbfa2b7a.PNG)
+
+
           
 4.VIDEO
 
