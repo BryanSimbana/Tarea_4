@@ -16,7 +16,6 @@ integrantes:
 1.2 Objetivos espesificos:
 
 2.MARCO TEÓRICO (RESUMEN)
-! [ JOSUE 3 ] (https://user-images.githubusercontent.com/84783236/125551204-f214883e-3559-4b3b-a7aa-e2a0e83036bb.png)
 
 ![8](https://user-images.githubusercontent.com/85522189/125560890-d246b71c-ea08-4164-85d1-27137636780f.PNG)
 
@@ -84,7 +83,16 @@ integrantes:
   
   ![parte 12](https://user-images.githubusercontent.com/81887698/125559079-94ec485c-6772-4a1c-aea4-b61a7741c627.PNG)
 
-          
+   Capitulo 8 
+   
+   ![11](https://user-images.githubusercontent.com/85522189/125561876-ced10670-7234-43d5-8367-7d48110d014c.PNG)
+   
+   ![12](https://user-images.githubusercontent.com/85522189/125561893-51b081e9-6bfb-4c63-804f-8eedd0d0937d.PNG)
+   
+   ![13](https://user-images.githubusercontent.com/85522189/125561906-4972dbd1-d567-465f-a2ff-405652edcb1f.PNG)
+
+
+
 4.VIDEO
 
 5.CONCLUSIONES
