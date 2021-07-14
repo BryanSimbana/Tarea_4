@@ -168,13 +168,18 @@ b) Cuando RL = 250 Ω
 ![36-1](https://user-images.githubusercontent.com/84783236/125563697-2bc7c6a6-8f8f-4866-add1-8d31ed444be9.jpeg)
 ![36-2](https://user-images.githubusercontent.com/84783236/125563704-ca9779af-4db2-42c8-9a4d-6a447cb53728.jpeg)
 
-caitulo 8
+Capitulo 8 
+
+![11](https://user-images.githubusercontent.com/85522189/125564654-d83c6a51-e2fd-4fe3-b196-43b12f8ac278.PNG)
+
+![12](https://user-images.githubusercontent.com/85522189/125564661-75bfa86f-149e-4fc1-ab3e-07998168ba48.PNG)
+
+![13](https://user-images.githubusercontent.com/85522189/125564674-259439f6-099a-46e4-9a0e-45130f96dd8d.PNG)
 
 
 
           
 4.VIDEO
-https://youtu.be/yq5vfO53e1U 
 
 5.CONCLUSIONES
 
