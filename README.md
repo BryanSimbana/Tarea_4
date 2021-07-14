@@ -356,3 +356,4 @@ equivalentes y calcule la corriente I1 y el voltaje Vab.
 -La transformacion de fuentes ayudo mucho hacer los calculos mucha mas comodidad
 
 6.BIBLIOGRAFÍA
+Allan Robbins, Wilhelm Miller, H. C. (2008). Análisis de circuitos (Cuarta edición, Vol. 4) [Libro electrónico]. Compañia de Cengage Learning, Inc. https://drive.google.com/file/d/1VyjcBBbI2HnIPe8hEFFhniiOtW52Dvyo/viewcolaboradores
