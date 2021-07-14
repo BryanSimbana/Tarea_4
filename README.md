@@ -88,130 +88,86 @@ Cápitulo 8
   c)
   
   ![parte 12](https://user-images.githubusercontent.com/81887698/125559079-94ec485c-6772-4a1c-aea4-b61a7741c627.PNG)
-3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-Capitulo 8
-
-2. Encuentre el voltaje VS para el circuito de la figura 8-65.
-
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125551025-57fc2ee3-b387-4ed6-8fe0-0b7eeb49de20.png)
-
-Solucion
-
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125551121-85d1ebc4-3673-4cdc-a10b-6d4583366b3c.png)
-
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125551145-5c6a9232-cdb5-4634-a2ae-08e428fa5262.png)
-
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125551160-7b1716fd-c40b-4a76-a8a8-d3b23d21b5a2.png)
+16. Vea el circuito de la ﬁ gura 7-54. Las siguientes cantidades:
 
 
-4. Considere el circuito de la figura 8-67:
+a) Calcular RT
+b) IT, I1, I2, I3, I4
+c) Vab, Vbc.
+![16-1](https://user-images.githubusercontent.com/84783236/125562487-6224b925-c94f-41e3-a017-0a14b29faf42.jpg)
+![16-2](https://user-images.githubusercontent.com/84783236/125562490-e9076c49-e583-42a1-a3d9-44f894aab9e8.jpg)
 
-una. Calcule los voltajes V2 y VS.
-
-B. Las Encontradas corrientes I e I3.
-
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125551345-f496abd7-92c6-4143-b87a-f2d3cd9394c6.png)
-
-Solucion
-
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125551393-792484d9-2913-4746-ac12-10f4df23b3b9.png)
-
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125551420-e85525d3-8f13-436c-b823-a190178816bf.png)
-
-6. Vea del circuito de la figura 8-69:
-
-una. Los encontrar voltajes VS y V2.
+18. Vea los circuitos de la figura 7-58
 
 
-B. Determine la corriente I4.
+a) Busque las corrientes indicadas
+b) Encuentra el voltaje Vab
+c) Verifique que la potencia suministrada al circuito es igual a la suma de las potencias disipadas por los resistores.
 
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125553832-a0979c6b-da89-4b17-b616-183e68efb532.png)
+![18-1](https://user-images.githubusercontent.com/84783236/125562537-80e8884b-9b04-4c8d-a45c-0683a725b428.jpg)
+![18-2](https://user-images.githubusercontent.com/84783236/125562545-228987a1-746d-416e-9816-726a1a8d3927.jpg)
+![18-3](https://user-images.githubusercontent.com/84783236/125562550-96ca0cbd-ec2e-4707-a96c-5da2dee849b5.jpg)
 
-Solucion
+20. En el circuito de la figura 7-64 determine Vb, IC y VCE.
 
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125553914-e3cf5be8-38fb-48b4-8fce-c865030c1abd.png)
+![20-1](https://user-images.githubusercontent.com/84783236/125562580-1017a3a9-1798-4831-814a-728e30b9cfc8.jpeg)
+![20-2](https://user-images.githubusercontent.com/84783236/125562590-204f06f9-758f-4546-be60-0d2d1ee09f33.jpeg)
 
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125553960-73217f59-1ac3-4a8c-9735-ef9fc7b10f73.png)
-
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125554026-04faa06d-bb43-41d0-88fa-ca7d4334c5a9.png)
-
-8. Verifique que la potencia suministrada por la fuente en el circuito de la figura
-8-69 es igual a la suma de las potencias disipadas por los resistores.
-
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125554353-fdd39e28-10a6-4cd1-8ff9-7c5a85e66af0.png)
-
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125554517-30a306eb-5bdd-4120-8765-aa06a26ef297.png)
-
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125554777-caa6e7b1-fea9-426a-a051-383437273da1.png)
-
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125554807-b49975dc-9c90-4753-8b16-6f6bc976efed.png)
-
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125554821-d079a3c1-cb1a-47ec-b48c-2a711ec67c95.png)
-
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125554829-6c31e58d-a76b-4555-a4bd-e21e954bd01e.png)
-
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125554849-f3f779ed-f865-4a69-82ca-29ac883ccacd.png)
-
-10. Convierta cada fuente de corriente de la figura 8-71 en su fuente de voltaje
-equivalente
-
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125554951-4bc69c3d-6a68-4762-b54f-d683eee8fbf8.png)
-
-a)
-
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125554980-23e55d6a-f9ed-4539-8578-cf2a78cb0918.png)
-
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125555448-96ee512e-8244-4511-8970-fe3d39f64f36.png)
+22. Considere el circuito de la figura 7-65 y los valores indicados:
 
 
-B)
+a) Determinar ID
+B. Calcule el valor requerido de Rs
+C. Por VDS
 
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125555459-8645817c-953f-458b-917d-92db0f428e37.png)
+![22-1](https://user-images.githubusercontent.com/84783236/125562676-00c80496-8395-4910-8cf9-9b602025ae01.jpeg)
 
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125555553-bb0e16cb-118e-4244-bf1f-4c96bbc9d8d1.png)
+![22-2](https://user-images.githubusercontent.com/84783236/125562792-d4dd77df-b4ea-4c42-8d54-7a15969f6ee6.jpeg)
 
-12. Encuentra Vab e I2 para la red de la figura 8-73.
+24. Calcule IC y VCE para el circuito de la figura 7-67.
 
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125555600-0efa88c1-06eb-4b20-af41-1411c31426a7.png)
+![24-1](https://user-images.githubusercontent.com/84783236/125562811-f3ba0abc-bd10-4672-acc4-4f2ab9c412ca.jpeg)
+![24-2](https://user-images.githubusercontent.com/84783236/125562817-ff5f00c4-2a51-4e8f-bc77-733c975e0f5e.jpeg)
 
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125555630-984f8510-2a3c-4955-a4e1-b7eaa99eaf78.png)
+26. Vea el circuito de la figura 7-69:
+a) Determine el intervalo de voltajes que aparecerán en RL a medida que el potenciómetro varíe 
+b) Si R2 se ajusta para tener 2.5 k ¿cuál será el voltaje VL? Si se remueve el resistor de carga ¿qué tensión tiene entre  las terminales a y b
 
-14. Vea el circuito de la figura 8-75:
+![26-1](https://user-images.githubusercontent.com/84783236/125562907-96f51963-6da5-4a18-803e-abdc11d94585.jpeg)
+![26-2](https://user-images.githubusercontent.com/84783236/125562916-b07b2b48-c32d-42a5-9fb5-fe485aea4ce4.jpeg)
 
-una. Convierta la fuente de voltaje y el resistor de 36? en fuente de corriente
-equivalente.
+28. Si el potenciómetro de la figura 7-70 se ajusta para que R2 200, determine los voltajes Vab y Vbc.
 
-B. Cifre la corriente a través de RL.
+![28-1](https://user-images.githubusercontent.com/84783236/125562998-ea65b281-8c6c-411e-a31c-f3acc271a1a1.jpeg)
+![28-2](https://user-images.githubusercontent.com/84783236/125563232-af86fa0d-0907-4a1a-b446-583aa8575075.jpeg)
 
-C. Determine el voltaje Vab.
+30. Vea el circuito de la figura 7-71:
+a)  Determine el intervalo del voltaje de salida (del mínimo al máximo) que se espera cuando el potenciómetro se ajusta del mínimo al máximo.
+b) Calcule R2 cuando Vsal = 20 V.
 
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125556154-aa6819c7-daa4-4f28-940d-f80042d784af.png)
+![30-1](https://user-images.githubusercontent.com/84783236/125563336-9aab50a2-75ee-49cc-ae96-70982d18a724.jpeg)
+![30-2](https://user-images.githubusercontent.com/84783236/125563343-0a66fe17-b30a-46ed-bcad-37426e398fca.jpeg)
 
+32. En el circuito de la figura 7-72 calcule el voltaje de salida Vsal cuando RL = 0 Ω, 250 Ω y 500 Ω.
 
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125556895-24e7a499-3f84-477d-842c-e7767ca828fd.png)
+a) Cuando RL = 0 Ω, el voltaje de salida es cero ya que al multiplicar cualquier numero por cero da cero.
+b) Cuando RL = 250 Ω
 
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125556954-ba1c364c-5e4e-4c2b-933e-ab119877df7c.png)
+![32-1](https://user-images.githubusercontent.com/84783236/125563565-c039c306-22d2-45ee-b009-5a8967b497e0.jpeg)
+![32-2](https://user-images.githubusercontent.com/84783236/125563571-e9709471-3c92-464b-bfa1-4b93babd8c5f.jpeg)
 
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125557024-75c72552-512b-4aa1-9b7d-45519b701fcc.png)
+34. Un voltímetro con una sensibilidad de S = 20 k Ω / V se usa en la escala de 10 V (con una resistencia interna total de 200 k Ω) para medir el voltaje en el resistor de 750 k Ω de la figura 7- 74. El medidor indica un voltaje de 5.00 V.
 
+![34-4](https://user-images.githubusercontent.com/84783236/125563642-2fc28cc0-c47a-4628-b62e-9424dbf550ca.jpeg)
+![34-2](https://user-images.githubusercontent.com/84783236/125563663-5a4fd118-9290-426f-87ad-aca0b63fa107.jpeg)
+![34-3](https://user-images.githubusercontent.com/84783236/125563676-28d833cd-08b0-49dc-a193-6b54ca998110.jpeg)
 
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125557052-370dc8f1-bed0-403a-83f5-74a3890745b6.png)
+36. Un amperímetro se usa para medir la corriente en el circuito que se muestra en la figura 7-76.
 
+![36-1](https://user-images.githubusercontent.com/84783236/125563697-2bc7c6a6-8f8f-4866-add1-8d31ed444be9.jpeg)
+![36-2](https://user-images.githubusercontent.com/84783236/125563704-ca9779af-4db2-42c8-9a4d-6a447cb53728.jpeg)
 
-16. Convierta las fuentes de voltaje de la figura 8-77 en sus fuentes de corriente
-equivalentes y calcule la corriente I1 y el voltaje Vab.
-
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125557416-9550139f-6a69-4020-bab9-5008d7fb3f2f.png)
-
-
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125557945-a1442969-96bf-4d80-b605-559b4282800e.png)
-
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125558156-1b134f9c-42ce-4db1-a9b7-0f20a98f2c88.png)
-
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125558227-7a455482-69ad-474a-8512-52daeec37374.png)
-
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125558282-272f96c0-f249-4c89-8a19-9696d4d01e18.png)
 
           
 4.VIDEO
