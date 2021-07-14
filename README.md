@@ -17,6 +17,9 @@ integrantes:
 
 2.MARCO TEÓRICO (RESUMEN)
 
+![8](https://user-images.githubusercontent.com/85522189/125560890-d246b71c-ea08-4164-85d1-27137636780f.PNG)
+
+
 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
   
   Ejercicios del numeral  7
