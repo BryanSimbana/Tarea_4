@@ -257,9 +257,10 @@ B)
 ![image](https://user-images.githubusercontent.com/85320165/125568398-4a653c83-5f72-4268-a079-4972f130149b.png)
 
 
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125555553-bb0e16cb-118e-4244-bf1f-4c96bbc9d8d1.png)
+![image](https://user-images.githubusercontent.com/85320165/125569075-eea9f41d-21dc-4169-97f5-2b15b345dc67.png)
 
 12. Encuentra Vab e I2 para la red de la figura 8-73.
+
 ![image](https://user-images.githubusercontent.com/85320165/125568458-e5fb824a-bf44-4226-ab33-3a8dd0aa7978.png)
 
 ![image](https://user-images.githubusercontent.com/85320165/125568477-d5911d4b-f034-4762-87d2-b1eb671cf4ec.png)
