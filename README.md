@@ -16,6 +16,7 @@ integrantes:
 1.2 Objetivos espesificos:
 
 2.MARCO TEÓRICO (RESUMEN)
+! [ JOSUE 3 ] (https://user-images.githubusercontent.com/84783236/125551204-f214883e-3559-4b3b-a7aa-e2a0e83036bb.png)
 
 ![8](https://user-images.githubusercontent.com/85522189/125560890-d246b71c-ea08-4164-85d1-27137636780f.PNG)
 
