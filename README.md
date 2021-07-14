@@ -293,7 +293,8 @@ equivalentes y calcule la corriente I1 y el voltaje Vab.
 
 ![image](https://user-images.githubusercontent.com/85320165/125568928-dd4fa34e-71aa-449a-9ae9-a024288867e9.png)
 
-! [ imagen ] (https://user-images.githubusercontent.com/85320165/125558156-1b134f9c-42ce-4db1-a9b7-0f20a98f2c88.png)
+![image](https://user-images.githubusercontent.com/85320165/125569314-699d9313-24be-4f32-978b-12eae7967787.png)
+
 
 ![image](https://user-images.githubusercontent.com/85320165/125568966-03866743-a255-454b-aec8-0b6101e70e3c.png)
 
