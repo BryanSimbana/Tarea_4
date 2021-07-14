@@ -351,5 +351,8 @@ equivalentes y calcule la corriente I1 y el voltaje Vab.
 4.VIDEO
 
 5.CONCLUSIONES
+-El analisis los circuitos mediante los métodos estudiados facilitó  la solución de los mismos.
+-Una fuente de corriente mantiene la misma corriente en la rama del circuito indistintamente de los componentes que allí se encuentren asi es siempre que los componentes esten en serie. 
+-La transformacion de fuentes ayudo mucho hacer los calculos mucha mas comodidad
 
 6.BIBLIOGRAFÍA
