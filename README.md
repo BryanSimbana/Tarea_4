@@ -3,7 +3,7 @@ integrantes:
 
 -Josue Pillajo
 
--Bryan Fernandez
+-Bryan Simbaña
 
 -Johan Taipicaña
 
