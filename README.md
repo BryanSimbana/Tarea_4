@@ -349,6 +349,7 @@ equivalentes y calcule la corriente I1 y el voltaje Vab.
 
           
 4.VIDEO
+https://www.youtube.com/watch?v=yq5vfO53e1U
 
 5.CONCLUSIONES
 -El analisis los circuitos mediante los métodos estudiados facilitó  la solución de los mismos.
